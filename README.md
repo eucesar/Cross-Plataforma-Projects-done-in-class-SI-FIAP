@@ -5,7 +5,7 @@
 ## Download
 
 ```sh
-https://github.com/eucesar/Java-Projects-done-in-class-SI-FIAP.git
+https://github.com/eucesar/Cross-Plataforma-Projects-done-in-class-SI-FIAP.git
 ```
 
 ## Cesar
